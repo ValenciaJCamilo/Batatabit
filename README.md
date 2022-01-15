@@ -17,7 +17,7 @@
 
 - Puedes ver el **resultado final** [aquí](https://valenciajcamilo.github.io/Batatabit/ "aquí") 
 
-- Puedes ver mis otros **apuntes** [aquí](https://github.com/ValenciaJCamilo/Platzi "aquí") 
+- Puedes ver apuntes de **otros cursos** [aquí](https://github.com/ValenciaJCamilo/Platzi "aquí") 
 ------------
 
 #### En este curso creamos un diseño responsivo con HTML y CSS el cual se adapta según el tamaño de la pantalla. A continuación te dejo los resultados finales 😁.
