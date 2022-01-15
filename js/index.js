@@ -35,7 +35,6 @@ window.sr=ScrollReveal();
 
     /*Slide derecho Planes*/
     sr.reveal('.plans-container--slider',{
-        duration:1500,
-        origin:'right',
-        distance:'140px'
+        duration:1000
     });
+
